@@ -32,9 +32,9 @@ spring:
     
 info:
   app:
-    name: testDev5
+    name: testDev6
   company:
-    name: hjrpc5
+    name: hjrpc6
     
 eureka:
   client:
