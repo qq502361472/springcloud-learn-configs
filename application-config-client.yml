@@ -10,6 +10,12 @@ spring:
   profiles: dev
   application:
     name: springcloud-config-client22
+info:
+  app:
+    name: testDev1
+  company:
+    name: hjrpc1
+      
 
 eureka:
   client:
@@ -23,7 +29,13 @@ spring:
   profiles: beta
   application:
     name: springcloud-config-client
-
+    
+info:
+  app:
+    name: testDev1
+  company:
+    name: hjrpc1
+    
 eureka:
   client:
     service-url:
