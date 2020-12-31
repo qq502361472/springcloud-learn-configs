@@ -9,7 +9,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: springcloud-config-client
+    name: springcloud-config-client22
 
 eureka:
   client:
